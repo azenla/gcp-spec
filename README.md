@@ -3,7 +3,6 @@
 *WARNING: Specifications are subject to change.*
 
 # About
--
 
 IRC, in it's current incarnation, is a very powerful communication tool. It's used from small online communities, to powering team collaboration and communication at a large scale like at Facebook. 
 
@@ -23,7 +22,6 @@ When setting up a local IRC network, it's almost a requirement to set up an IRCd
 - Allow for and nurture the diversity of use-cases for GCP, ranging from team collaboration to online communities.
 
 # The Protocol
--
 
 ### Message
 
@@ -44,7 +42,6 @@ In the case of a non-response server message, the id can be omitted. It will be 
 **"..."** - amount of the parameters can vary, limit 1 parameter per property set
 
 # Reading this specification
--
 
 Here is a basic layout of the the parts of the specification:
 
